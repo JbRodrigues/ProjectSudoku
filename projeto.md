@@ -3,7 +3,7 @@
 ### Criar 9 blocos onde:
 - cada bloco tenha 3 linhas e 3 colunas (9 espaços dentro de cada bloco)
 - verificar quais numeros estao em cada linha e cada coluna
-- injetar numeros aleatorios dentro dos 9 blocos
+- injetar numeros aleatorios dentro dos 9 blocos (de 1 até 9)
 - comparar os inputs dentro de cada espaço
   
 ### a cada input:
